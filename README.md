@@ -159,9 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Asia Groupierre
-Alexandre Guerin
-Marlyne Ihorimbere
+Asia Groupierre - [Github](https://github.com/AsiaGrpr)
+Hugo Chilemme - [Github](https://github.com/HugoCLI)
 
 Second part of Airbnb: Joann Vuong
 ## License
