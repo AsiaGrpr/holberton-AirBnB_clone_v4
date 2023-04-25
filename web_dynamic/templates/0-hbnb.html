@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="../static/styles/6-filters.css?{{ cache_id }}">
     <link type="text/css" rel="stylesheet" href="../static/styles/8-places.css?{{ cache_id }}">
     <link rel="icon" href="../static/images/icon.png?{{ cache_id }}" />
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js?{{ cache_id }}"></script>
     <title>HBnB</title>
   </head>
   <body>
@@ -62,7 +63,7 @@
             <div class="number_bathrooms">{{ place.number_bathrooms }} Bathroom{% if place.number_bathrooms != 1 %}s{% endif %}</div>
 	  </div>
 	  <div class="user">
-            <b>Owner:</b> {{ place.user.first_name }} {{ place.user.last_name }}
+            <b>Owner:</b>  Asia
           </div>
           <div class="description">
 	    {{ place.description | safe }}
