@@ -87,8 +87,13 @@ button:hover {
     padding-left: 10px;
 }
 .popover ul li{
+
     padding: 4px;
     padding-left: 10px;
+}
+
+.amenities .popover ul li input{
+    margin-right: 10px;
 }
 
 .popover ul h2{
